@@ -1,6 +1,3 @@
-<!-- Byt ut banner.svg mot namnet på din SVG-fil -->
-![Banner](banner.svg)
-
 # Hej, jag är Elena Holmberg 👋
 
 Frontend-student som vet vad som ser bra ut — och nu också hur man bygger det.
