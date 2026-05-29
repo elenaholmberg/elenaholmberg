@@ -2,9 +2,7 @@
   <img src="banner.svg" alt="Banner för Elena Holmberg" width="100%" style="max-width:800px"/>
 </p>
 
-# Hej 👋
 
-Frontend-student som vet vad som ser bra ut — och nu också hur man bygger det.
 
 📍 Malmö, SE · 🟢 Öppen för möjligheter
 
