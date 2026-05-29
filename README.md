@@ -1,4 +1,4 @@
-
+<img src="banner.svg" alt="Banner för Elena Holmberg" width="800"/>
 
 
 
