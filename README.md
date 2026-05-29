@@ -4,7 +4,7 @@
 
 
 
-📍 Malmö, SE · 🟢 Öppen för möjligheter
+📍 Malmö, SE · 🟢 Öppen för möjligheter, Söker LIA-plats till januari 2027
 
 ---
 
