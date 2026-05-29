@@ -4,7 +4,8 @@
 ---
 
 ## Söker LIA-plats till januari 2027
-📍 Skåne eller hybrid, SE  
+📍 Skåne eller hybrid
+
 Jag är en positiv och energisk person som trivs lika bra med att jobba självständigt som i team. 
 Som egenföretagare har jag blivit en problemlösare av rang och ger mig inte förrän jag hittat ett sätt framåt. En egenskap jag haft stor fördel av som utvecklare. 
 Mina många år i arbetslivet har gett mig kunskap och mod att ta egna initiativ och att hugga in där det behövs.
