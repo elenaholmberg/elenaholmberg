@@ -1,5 +1,5 @@
 <!-- Byt ut banner.svg mot namnet på din SVG-fil -->
-![Banner](banner (1).svg)
+![Banner](banner.svg)
 
 # Hej, jag är Elena Holmberg 👋
 
