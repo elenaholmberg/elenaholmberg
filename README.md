@@ -1,5 +1,6 @@
-<!-- Byt ut banner.svg mot namnet på din SVG-fil -->
-![Banner](banner.svg)
+<p align="center">
+  <img src="banner.svg" alt="Banner för Elena Holmberg" width="100%" style="max-width:800px"/>
+</p>
 
 # Hej, jag är Elena Holmberg 👋
 
