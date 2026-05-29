@@ -4,7 +4,7 @@
 
 
 
-📍 Malmö, SE · 🟢 
+📍 Malmö, SE  
 
 ---
 
