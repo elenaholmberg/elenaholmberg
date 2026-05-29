@@ -1,4 +1,4 @@
-<img src="mybanner.svg" alt="Banner för Elena Holmberg" width="800"/>
+<img src="mybanner.svg" alt="Banner för Elena Holmberg"/>
 
 
 
