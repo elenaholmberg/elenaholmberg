@@ -1,0 +1,30 @@
+<svg width="680" height="200" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Banner för Elena Holmberg – frontend-student</title>
+<desc>En horisontell banner med namn, tagline och dekorativa geometriska former i grönt</desc>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@700;800&amp;family=DM+Mono:wght@400;500&amp;display=swap');
+.name{font-family:'Syne',sans-serif;font-size:42px;font-weight:800;fill:#04342C;letter-spacing:-1px}
+.tag{font-family:'DM Mono',monospace;font-size:13px;font-weight:400;fill:#085041}
+.sub{font-family:'DM Mono',monospace;font-size:11px;font-weight:400;fill:#1D9E75}
+.pill-text{font-family:'DM Mono',monospace;font-size:10px;fill:#085041}
+</style>
+<rect width="680" height="200" fill="#E8F7EF"/>
+<circle cx="580" cy="30" r="90" fill="#C8EDD9"/>
+<circle cx="620" cy="160" r="50" fill="#9FE1CB"/>
+<circle cx="560" cy="100" r="30" fill="#5DCAA5" opacity="0.5"/>
+<rect x="630" y="60" width="60" height="60" rx="8" fill="#1D9E75" opacity="0.15"/>
+<rect x="20" y="0" width="4" height="200" fill="#5DCAA5"/>
+<text x="44" y="88" class="name">Elena Holmberg</text>
+<text x="46" y="115" class="tag">Frontend-student · UX · Tillgänglighet</text>
+<text x="46" y="137" class="sub">Medieinstitutet Malmö · Malmö, Sverige</text>
+<rect x="46" y="155" width="82" height="22" rx="11" fill="#9FE1CB"/>
+<text x="87" y="170" text-anchor="middle" class="pill-text">HTML / CSS</text>
+<rect x="136" y="155" width="68" height="22" rx="11" fill="#9FE1CB"/>
+<text x="170" y="170" text-anchor="middle" class="pill-text">JavaScript</text>
+<rect x="212" y="155" width="52" height="22" rx="11" fill="#9FE1CB"/>
+<text x="238" y="170" text-anchor="middle" class="pill-text">React</text>
+<rect x="272" y="155" width="80" height="22" rx="11" fill="#9FE1CB"/>
+<text x="312" y="170" text-anchor="middle" class="pill-text">TypeScript</text>
+<rect x="360" y="155" width="50" height="22" rx="11" fill="#9FE1CB"/>
+<text x="385" y="170" text-anchor="middle" class="pill-text">Figma</text>
+</svg>
