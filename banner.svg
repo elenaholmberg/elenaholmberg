@@ -16,7 +16,7 @@
 <rect x="20" y="0" width="4" height="200" fill="#5DCAA5"/>
 <text x="44" y="88" class="name">Elena Holmberg</text>
 <text x="46" y="115" class="tag">Frontend-student · UX · Tillgänglighet</text>
-<text x="46" y="137" class="sub">Medieinstitutet Malmö · Malmö, Sverige</text>
+<text x="46" y="137" class="sub">Medieinstitutet · Malmö, Sverige</text>
 <rect x="46" y="155" width="82" height="22" rx="11" fill="#9FE1CB"/>
 <text x="87" y="170" text-anchor="middle" class="pill-text">HTML / CSS</text>
 <rect x="136" y="155" width="68" height="22" rx="11" fill="#9FE1CB"/>
