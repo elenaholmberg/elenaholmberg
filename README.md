@@ -11,9 +11,9 @@ Frontend-student som vet vad som ser bra ut — och nu också hur man bygger det
 
 ## Om mig
 
-Jag studerar **Frontend-utveckling** på Medieinstitutet Malmö med en bakgrund inom **visual merchandising** och e-handel — erfarenheter som gett mig ett genuint öga för användarupplevelse, visuell kommunikation och vad som faktiskt får en produkt att fungera.
+Jag studerar **Frontend-utveckling** på Medieinstitutet med en bakgrund inom **e-handel** , entreprenörskap och visual merchandising — erfarenheter som gett mig ett genuint öga för användarupplevelse, visuell kommunikation och vad som faktiskt får en produkt att fungera.
 
-Jag tar med mig ett skarpt öga för flöde, estetik och vad som faktiskt funkar för användaren — in i varje komponent jag bygger. Jag brinner lite extra för **tillgänglighet** och **UI** — övertygad om att ett gränssnitt som fungerar för alla också är ett bättre gränssnitt för alla. *(Och ja, jag har åsikter om typsnitt.)*
+Jag tar med mig ett skarpt öga för flöde, estetik och vad som faktiskt funkar för användaren — in i varje komponent jag bygger. Jag brinner lite extra för **tillgänglighet** och **UI** — övertygad om att ett gränssnitt som **fungerar** för alla också är ett **bättre** gränssnitt för alla.
 
 Jag använder AI aktivt i mina studier — som ett pedagogiskt verktyg för att fördjupa min förståelse, utforska koncept och få snabbare feedback. Koden skriver jag själv; AI hjälper mig att bli en bättre utvecklare, inte en som slipper bli det.
 
