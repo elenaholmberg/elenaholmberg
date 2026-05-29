@@ -4,17 +4,25 @@
 
 
 
-📍 Malmö, SE · 🟢 Söker LIA-plats till januari 2027
+📍 Malmö, SE · 🟢 
 
 ---
+
+## Söker LIA-plats till januari 2027
+
+Jag är en positiv och energisk person som trivs lika bra med att jobba självständigt som i team. 
+Som egenföretagare har jag blivit en problemlösare av rang och ger mig inte förrän jag hittat ett sätt framåt. En egenskap jag haft stor fördel av som utvecklare. 
+Mina många år i arbetslivet har gett mig kunskap och mod att ta egna initiativ och att hugga in där det behövs.
+
+På en LIA-plats får ni någon som kommer in med glädje, energi, engagemang och en genuin vilja att bidra — från dag ett.
 
 ## Om mig
 
 Jag studerar **Frontend-utveckling** på Medieinstitutet med en bakgrund inom **e-handel** , entreprenörskap och visual merchandising — erfarenheter som gett mig ett genuint öga för användarupplevelse, visuell kommunikation och vad som faktiskt får en produkt att fungera.
 
-Jag tar med mig ett skarpt öga för flöde, estetik och vad som faktiskt funkar för användaren — in i varje komponent jag bygger. Jag brinner lite extra för **tillgänglighet** och **UI** — övertygad om att ett gränssnitt som **fungerar** för alla också är ett **bättre** gränssnitt för alla.
+Jag tar med mig ett skarpt öga för flöde, estetik och vad som faktiskt funkar för användaren — in i varje komponent jag bygger, och jag vill skapa snygga och enkla användargränssnitt som även min 109-åriga mormor kan förstå sig på.
 
-Jag använder AI aktivt i mina studier — som ett pedagogiskt verktyg för att fördjupa min förståelse, utforska koncept och få snabbare feedback. Koden skriver jag själv; AI hjälper mig att bli en bättre utvecklare, inte en som slipper bli det.
+Jag använder AI som ett pedagogiskt verktyg i mina studier — för att fördjupa förståelse, utforska koncept och få snabbare feedback. Jag skriver koden själv; målet är att förstå varje rad på djupet, inte att få den serverad. Just nu brinner jag lite extra för **tillgänglighet och refaktorering.**
 
 ---
 
@@ -39,7 +47,7 @@ Jag använder AI aktivt i mina studier — som ett pedagogiskt verktyg för att 
 
 **👥 UX-tänk** — Alltid med användarens perspektiv i åtanke — från wireframe till färdig komponent.
 
-**⚙️ Frontend & backend** — Förstår flödet hela vägen — HTML/CSS/React, TypeScript och Node.js.
+**⚙️ Frontend & backend** — Förstår flödet hela vägen — HTML/CSS/React, TypeScript, Node.js samt API.
 
 **✨ AI i arbetsflödet** — Använder AI som sparringpartner — effektivare, men aldrig på bekostnad av att faktiskt förstå koden.
 
@@ -47,10 +55,10 @@ Jag använder AI aktivt i mina studier — som ett pedagogiskt verktyg för att 
 
 ## Kontakt
 
-- 💼 [LinkedIn](https://linkedin.com/in/ditt-namn) ← byt ut länken
-- 📧 din@email.se ← byt ut e-posten
-- 🌐 [Portfolio](https://din-portfolio.se) ← byt ut länken
+- 💼 [LinkedIn](linkedin.com/in/elena-holmberg-b4a749aa) 
+- 📧 elenaholmberg83@hotmail.com
+- 🌐 [Portfolio]
 
 ---
 
-*Studerar på Medieinstitutet Malmö — alltid nyfiken, alltid på väg att lära mig något nytt.*
+*Studerar på Medieinstitutet — alltid nyfiken, alltid på väg att lära mig något nytt.*
