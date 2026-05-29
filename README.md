@@ -1,8 +1,6 @@
 <img src="banner.svg" alt="Banner för Elena Holmberg" width="1200"/>
 
 
-📍 Malmö, SE  
-
 ---
 
 ## Söker LIA-plats till januari 2027
