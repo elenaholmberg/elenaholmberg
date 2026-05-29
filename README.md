@@ -1,5 +1,4 @@
-<img src="mybanner.svg" alt="Banner för Elena Holmberg" "width 1200"/>
-
+<img src="banner.svg" alt="Banner för Elena Holmberg" width="1200"/>
 
 
 📍 Malmö, SE  
