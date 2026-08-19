@@ -53,7 +53,11 @@ Jag använder AI som ett pedagogiskt verktyg i mina studier — för att fördju
 
 - 💼 [LinkedIn](linkedin.com/in/elena-holmberg-b4a749aa) 
 - 📧 elenaholmberg83@hotmail.com
-- 🌐 https://elenaholmberg.github.io/svg-uppgift/
+- 🌐 Portfolio:
+     https://elenaholmberg.github.io/svg-uppgift/
+     https://elenaholmberg.github.io/IKEA-escaperoom/
+
+
     
 
 ---
