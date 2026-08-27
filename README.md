@@ -55,7 +55,7 @@ Jag använder AI som ett pedagogiskt verktyg i mina studier — för att fördju
 - 📧 elenaholmberg83@hotmail.com
 - 🌐 Portfolio:
   
-  https://elenaholmberg.github.io/Calippo-Shots-re-launch/?
+  https://elenaholmberg.github.io/Calippo-Shots-re-launch/
   
   https://medieinstitutet.github.io/fed25d-grafiska-verktyg-individuell-elenaholmberg/
   
