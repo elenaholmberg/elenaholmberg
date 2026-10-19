@@ -16,7 +16,7 @@ På en LIA-plats får ni någon som kommer in med glädje, energi, engagemang oc
 
 Jag studerar **Frontend-utveckling** på Medieinstitutet med en bakgrund inom **e-handel** , entreprenörskap och visual merchandising — erfarenheter som gett mig ett genuint öga för användarupplevelse, visuell kommunikation och vad som faktiskt får en produkt att fungera.
 
-Jag tar med mig ett skarpt öga för flöde, estetik och vad som faktiskt funkar för användaren — in i varje komponent jag bygger, och jag vill skapa snygga och enkla användargränssnitt som även min 109-åriga mormor kan förstå sig på.
+Jag tar med mig ett skarpt öga för flöde, estetik och vad som faktiskt funkar för användaren — in i varje komponent jag bygger, och jag vill skapa snygga och enkla användargränssnitt.
 
 Jag använder AI som ett pedagogiskt verktyg i mina studier — för att fördjupa förståelse, utforska koncept och få snabbare feedback. Jag skriver koden själv; målet är att förstå varje rad på djupet, inte att få den serverad. Just nu brinner jag lite extra för **tillgänglighet och refaktorering.**
 
